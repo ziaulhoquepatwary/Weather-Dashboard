@@ -50,7 +50,7 @@ It allows searching from a dataset of **275 predefined locations** with latitude
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ziaul-hoque4820/Weather-Dashboard.git
+   git clone https://github.com/ziaulhoquepatwary/Weather-Dashboard.git
    cd Weather-Dashboard
    ```
 
@@ -111,7 +111,7 @@ Click the image below to watch the full demo on Vimeo:
 
 ## 🔗 Project Links
 
-- 🔗 **GitHub Repository:** [https://github.com/ziaul-hoque4820/Weather-Dashboard](https://github.com/ziaul-hoque4820/Weather-Dashboard)
+- 🔗 **GitHub Repository:** [https://github.com/ziaulhoquepatwary/Weather-Dashboard.git](https://github.com/ziaulhoquepatwary/Weather-Dashboard.git)
 - 🌐 **Live Demo:** [https://weather-dashboard-three-iota.vercel.app/] (https://weather-dashboard-three-iota.vercel.app/)
 
 ---
@@ -176,7 +176,7 @@ src/
 
 **Ziaul Hoque Patwary**  
 📧 Email: [**ziaul.dev@gmail.com**] 
-🔗 GitHub: [ziaul-hoque4820](https://github.com/ziaul-hoque4820)
+🔗 GitHub: [ziaulhoquepatwary](https://github.com/ziaulhoquepatwary)
 
 ---
 
